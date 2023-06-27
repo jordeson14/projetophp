@@ -1,1 +1,3 @@
-projeto feito com banco de dados com um sistema de rotas de motoristas etc.
+projeto básico de php com banco de dados e html. 
+tem o objetivo de inserir funcionários, cadastrar rotas etc.
+
